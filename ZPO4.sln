@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO4.1", "ZPO4.1\ZPO4.1.csproj", "{BED79894-2BBD-45AC-9CCB-08D6758C128A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO4.2", "ZPO4.2\ZPO4.2.csproj", "{C75340D5-86B3-4D5B-89C7-D2C7E915F48B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BED79894-2BBD-45AC-9CCB-08D6758C128A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BED79894-2BBD-45AC-9CCB-08D6758C128A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BED79894-2BBD-45AC-9CCB-08D6758C128A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75340D5-86B3-4D5B-89C7-D2C7E915F48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75340D5-86B3-4D5B-89C7-D2C7E915F48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75340D5-86B3-4D5B-89C7-D2C7E915F48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75340D5-86B3-4D5B-89C7-D2C7E915F48B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
